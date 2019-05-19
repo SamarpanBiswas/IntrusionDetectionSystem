@@ -2,8 +2,9 @@
 
 Real Time Intrusion Detection Security System based on Face Recognition, implemented through Deep Learning
 
-Samarpan Biswas (sb6165)
-Ishita Chowdhury (ivc211)
+Owners:
+Samarpan Biswas (sb6165),
+Ishita Chowdhury (ivc211),
 Rachana Swamy (rms816)
 
 This is not just a Face recogition system, but an intelligent system that can be used to put the system in to lockdown and detect unknown faces and store them in case of intrusion.
